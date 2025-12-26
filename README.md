@@ -4,9 +4,6 @@
 
 A modern, professional React portfolio website showcasing Electrical & Electronic Engineering expertise with software development skills.
 
-## Live Demo
-
-[View Portfolio](https://charles-odari-portfolio.netlify.app) (Deploy when ready)
 
 ## Table of Contents
 
